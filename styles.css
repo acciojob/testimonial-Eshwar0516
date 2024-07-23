@@ -6,7 +6,8 @@ h1{
 	padding:20px;
 }
 .author{
-	text-align:right
+	text-align:right;
+	font-style:italic;
 }
 .first{
 	border:1px solid black;
